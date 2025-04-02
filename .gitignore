@@ -1,0 +1,36 @@
+# Minecraft general
+logs/
+crash-reports/
+.DS_Store
+Thumbs.db
+hs_err_pid*
+eula.txt
+usercache.json
+session.lock
+
+# Configuración generada
+options.txt
+servers.dat
+
+# Archivos de Forge
+debug.log
+latest.log
+
+# Carpetas de caché y temporales
+resourcepacks/
+saves/
+shaderpacks/
+world/
+journeymap/
+# Distant_Horizons_server_data/
+# XaeroWaypoints_BACKUP240807/
+
+# Archivos de Git y otros archivos específicos
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.qmenu_opened.marker
+patchouli_data.json
+servers.dat_old

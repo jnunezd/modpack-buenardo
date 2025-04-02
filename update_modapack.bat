@@ -12,5 +12,5 @@ tar -xf modpack.zip --strip-components=1
 echo Eliminando archivo temporal...
 del modpack.zip
 
-echo ¡Actualización completa!
+echo Actualizacion completa
 pause
