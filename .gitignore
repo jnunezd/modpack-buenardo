@@ -22,8 +22,8 @@ saves/
 shaderpacks/
 world/
 journeymap/
-# Distant_Horizons_server_data/
-# XaeroWaypoints_BACKUP240807/
+Distant_Horizons_server_data/
+XaeroWaypoints_BACKUP240807/
 
 # Archivos de Git y otros archivos específicos
 .idea/
