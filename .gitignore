@@ -17,6 +17,8 @@ debug.log
 latest.log
 
 # Carpetas de caché y temporales
+bkpconfig - Copy/
+screenshots/
 resourcepacks/
 saves/
 shaderpacks/
@@ -27,6 +29,8 @@ XaeroWaypoints_BACKUP240807/
 xaero/
 
 # Archivos de Git y otros archivos específicos
+emi.json
+usernamecache.json
 .idea/
 *.iml
 .vscode/

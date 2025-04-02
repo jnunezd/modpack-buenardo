@@ -3,84 +3,84 @@
 	init_val_starting_level = 1.0
 
 ["Attribute 1"]
-	display_name = "Vitality : "
+	display_name = "Vitalidad : "
 	cmd_to_exc = ["/attribute @p generic.max_health base set"]
 	on_level_event = ["/effect give @p minecraft:instant_health 2 3"]
-	tip_to_display = "§7Represents your overall durability. §7More health means you can survive longer in battle"
+	tip_to_display = "§7Representa tus puntos vida. §7Te reto a que aguante ete"
 	init_val_attribute_one = 20.0
 	max_level = 100.0
-	base_value_per_point = 1.0
+	base_value_per_point = 2.0
 	lock = false
 
 ["Attribute 2"]
-	display_name = "Attack Power : "
+	display_name = "Fuerza : "
 	cmd_to_exc = ["/attribute @p generic.attack_damage base set"]
 	on_level_event = [" "]
-	tip_to_display = "§7Defines the amount of harm you can inflict with each attack. "
+	tip_to_display = "§7Define el daño que hacer por golpe cuerpo a cuerpo. "
 	init_val_attribute_two = 2.0
 	max_level = 100.0
 	base_value_per_point = 1.0
 	lock = false
 
 ["Attribute 3"]
-	display_name = "Attack Speed : "
+	display_name = "Frenesí : "
 	cmd_to_exc = ["/attribute @p generic.attack_speed base set"]
 	on_level_event = [" "]
-	tip_to_display = "§7Determines how quickly you can swing your weapon. "
+	tip_to_display = "§7Determina que tan rapido puedes golpear con armas cuerpo a cuerpo. "
 	init_val_attribute_three = 4.0
 	max_level = 20.0
 	base_value_per_point = 1.0
 	lock = false
 
 ["Attribute 4"]
-	display_name = "Protection : "
-	cmd_to_exc = ["/attribute @p generic.armor base set [param(0.1)]"]
+	display_name = "Guardia : "
+	cmd_to_exc = ["/attribute @p generic.armor_toughness base set [param(0.2)]"]
 	on_level_event = [" "]
-	tip_to_display = "§7Reduces the amount of damage you take from enemy attacks"
+	tip_to_display = "§7Aumenta la efectividad de tus armaduras"
 	init_val_attribute_forth = 0.0
-	max_level = 200.0
+	max_level = 100.0
 	base_value_per_point = 1.0
 	lock = false
 
 ["Attribute 5"]
-	display_name = "Agility : "
-	cmd_to_exc = ["/attribute @p generic.movement_speed base set [param(0.005)]"]
+	display_name = "Agilidad : "
+	cmd_to_exc = ["/attribute @p generic.movement_speed base set [param(0.005)]", "/attribute @p parcool:max_stamina base set [param(100)] param=4.0", "/attribute @p parcool:stamina_recovery base set"]
 	on_level_event = [" "]
-	tip_to_display = "§7Influences how fast you can move"
+	tip_to_display = "§7Afecta tu velocidad de movimiento"
 	init_val_attribute_fifth = 20.0
 	max_level = 50.0
-	base_value_per_point = 1.0
+	base_value_per_point = 2.0
 	lock = false
 
 ["Attribute 6"]
-	display_name = "Fortitude : "
-	cmd_to_exc = ["/attribute @p generic.knockback_resistance base set [param(0.01)]"]
+	display_name = "Gordura : "
+	cmd_to_exc = ["/attribute @p generic.knockback_resistance base set [param(0.05)]"]
 	on_level_event = [" "]
-	tip_to_display = "§7Reduces the distance you are pushed back when hit by an enemy or explosion"
+	tip_to_display = "§7Mientras más waton menos te mueves(Knockback resistance)"
 	init_val_attribute_sixth = 0.0
-	max_level = 100.0
+	max_level = 20.0
 	base_value_per_point = 1.0
 	lock = false
 
 ["Attribute 7"]
-	display_name = "Exploration : "
-	cmd_to_exc = ["/attribute @p generic.luck base set [param(0.5)]"]
+	display_name = "Suerte : "
+	cmd_to_exc = ["/attribute @p generic.luck base set"]
 	on_level_event = [" "]
 	tip_to_display = "§7Influences the chances of receiving better loot or triggering beneficial events"
 	init_val_attribute_seventh = 0.0
 	max_level = 100.0
-	base_value_per_point = 1.0
+	base_value_per_point = 3.0
 	lock = false
 
 ["Attribute 8"]
-	display_name = ""
-	cmd_to_exc = [" "]
+	display_name = "Inteligencia : "
+	cmd_to_exc = ["/attribute @p ars_nouveau:ars_nouveau.perk.spell_damage base set", "/attribute @p irons_spellbooks:spell_power base set"]
 	on_level_event = [" "]
-	tip_to_display = ""
-	init_val_attribute_eight = 0.0
-	max_level = 0.0
-	base_value_per_point = 0.0
-	lock = true
+	tip_to_display = "§7Aumenta el daño de tus magias y hechizos"
+	init_val_attribute_eight = 1.0
+	max_level = 100.0
+	base_value_per_point = 1.0
+	lock = false
 
 ["Attribute 9"]
 	"display_name " = ""
