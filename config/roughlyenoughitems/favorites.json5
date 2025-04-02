@@ -1,0 +1,13 @@
+{
+	"favorites": [
+		"{mode:\"SPECTATOR\",type:\"roughlyenoughitems:gamemode\"}",
+		"{mode:\"SURVIVAL\",type:\"roughlyenoughitems:gamemode\"}",
+		"{mode:\"CREATIVE\",type:\"roughlyenoughitems:gamemode\"}",
+		"{type:\"roughlyenoughitems:weather\",weather:\"CLEAR\"}",
+		"{data:{Count:1b,id:\"minecraft:gravel\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:mangrove_planks\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{Count:1b,id:\"minecraft:paper\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

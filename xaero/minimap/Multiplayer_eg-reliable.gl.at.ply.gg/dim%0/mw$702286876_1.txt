@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:aaaa:A:-721:74:-1044:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:CenterBlock:C:-120:68:-617:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:KaKoLandia:K:-120:70:-617:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ametista:A:-123:-54:-698:5:false:0:gui.xaero_default:false:0:0:false

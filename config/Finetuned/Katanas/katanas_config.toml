@@ -1,0 +1,9 @@
+
+["Classic Katana"]
+	dash_cooldown = 40.0
+	dash_power = 2.0
+
+["Blood Katana"]
+	dash_cooldown = 40.0
+	dash_power = 2.0
+
