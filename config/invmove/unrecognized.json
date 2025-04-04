@@ -61,7 +61,16 @@
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true,
     "net.mcreator.butcher.client.gui.PestleandmotarguiScreen": true,
-    "appeng.client.gui.implementations.InscriberScreen": true
+    "appeng.client.gui.implementations.InscriberScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "appeng.client.gui.me.items.CraftingTermScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "appeng.client.gui.implementations.DriveScreen": true,
+    "appeng.client.guidebook.screen.GuideScreen": true,
+    "net.createmod.ponder.foundation.ui.PonderUI": true,
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.LimitedBarrelScreen": true,
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.LimitedBarrelSettingsScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true
   },
   "hideBackground": {
     "tn.mbs.memory.client.gui.PlayerStatsGUIScreen": false,
@@ -90,6 +99,12 @@
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true,
     "net.mcreator.butcher.client.gui.PestleandmotarguiScreen": true,
-    "appeng.client.gui.implementations.InscriberScreen": true
+    "appeng.client.gui.implementations.InscriberScreen": true,
+    "appeng.client.gui.me.items.CraftingTermScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSettingsScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "appeng.client.gui.implementations.DriveScreen": true,
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.LimitedBarrelScreen": true,
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.LimitedBarrelSettingsScreen": true
   }
 }

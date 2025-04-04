@@ -1,6 +1,6 @@
 {
   "general": {
-    "enable": true,
+    "enable": false,
     "debugDisplay": false
   },
   "movement": {
