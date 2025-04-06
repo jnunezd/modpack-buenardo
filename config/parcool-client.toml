@@ -13,7 +13,7 @@
 	#Enable rotation of camera by Flipping
 	enable_camera_rotation_flipping = true
 	#Enable animation of camera by Vault
-	enable_camera_animation_vault = false
+	enable_camera_animation_vault = true
 	#Enable animation of camera by Horizontal-WallRun
 	enable_camera_animation_h-wall-run = true
 	#Enable animation of camera by Hang-Down
@@ -67,7 +67,7 @@
 	#Enable Roll when creative mode (experimental)
 	enable_roll_creative = false
 	#Make Vault Need Vault Key Pressed
-	vault_needs_key_pressed = false
+	vault_needs_key_pressed = true
 	#enable players to do actions needing Fast-Running by sprint
 	substitute_sprint = false
 	#How long duration of dodge is deal as successive dodge
