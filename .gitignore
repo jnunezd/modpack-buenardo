@@ -16,26 +16,36 @@ servers.dat
 debug.log
 latest.log
 
-# Carpetas de caché y temporales
-bkpconfig - Copy/
+# Carpetas
+.idea/
+saves/
+world/
+xaero/
+.vscode/
+journeymap/
+schematics/
+shaderpacks/
 screenshots/
 resourcepacks/
-saves/
-shaderpacks/
-world/
-journeymap/
-Distant_Horizons_server_data/
+bkpconfig - Copy/
+config/relics/relics/
+config/artifacts/relics/
 XaeroWaypoints_BACKUP240807/
-xaero/
+Distant_Horizons_server_data/
 
-# Archivos de Git y otros archivos específicos
-emi.json
-usernamecache.json
-.idea/
+# Archivos específicos
 *.iml
-.vscode/
 *.swp
 *.swo
-.qmenu_opened.marker
-patchouli_data.json
+emi.json
+jei-client.ini
 servers.dat_old
+jeed-client.toml
+oculus.properties
+usernamecache.json
+patchouli_data.json
+.qmenu_opened.marker
+xaerominimap_entities.json
+xaerominimap_entities.json
+do_a_barrel_roll-client.json
+embeddium-fingerprint.json
