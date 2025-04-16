@@ -1,4 +1,4 @@
 
 ["Custom Dimensions Config"]
-	dimensions_settings = ["[min]0[minEnd][max]75[maxEnd]minecraft:overworld", "[min]50[minEnd][max]100[maxEnd]minecraft:the_nether", "[min]100[minEnd][max]200[maxEnd]minecraft:the_end", "[min]20[minEnd][max]50[maxEnd]the_bumblezone:the_bumblezone", "[min]5[minEnd][max]10[maxEnd]twilightforest:twilight_forest"]
+	dimensions_settings = ["[min]0[minEnd][max]300[maxEnd]minecraft:overworld", "[min]50[minEnd][max]450[maxEnd]minecraft:the_nether", "[min]100[minEnd][max]800[maxEnd]minecraft:the_end", "[min]40[minEnd][max]420[maxEnd]the_bumblezone:the_bumblezone", "[min]100[minEnd][max]1100[maxEnd]twilightforest:twilight_forest", "[min]250[minEnd][max]1200[maxEnd]aether:the_aether", "[min]250[minEnd][max]1200[maxEnd]blue_skies:everbright", "[min]250[minEnd][max]1200[maxEnd]blue_skies:everdawn", "[min]250[minEnd][max]1200[maxEnd]tht:dimension", "[min]250[minEnd][max]1200[maxEnd]deeperdarker:otherside", "[min]250[minEnd][max]1200[maxEnd]dimdungeons:dungeon_dimension"]
 

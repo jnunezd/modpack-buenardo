@@ -28,10 +28,13 @@ shaderpacks/
 screenshots/
 resourcepacks/
 bkpconfig - Copy/
-config/relics/relics/
-config/artifacts/relics/
 XaeroWaypoints_BACKUP240807/
 Distant_Horizons_server_data/
+config/relics/relics/
+config/artifacts/relics/
+config/voicechat
+config/roughlyenoughitems
+config/jei
 
 # Archivos específicos
 *.iml
@@ -49,3 +52,8 @@ xaerominimap_entities.json
 xaerominimap_entities.json
 do_a_barrel_roll-client.json
 embeddium-fingerprint.json
+config/xaero.*.json
+config/xaero.*.txt
+config/voicechat-client.toml
+config/emi.css
+config/oculus.properties
