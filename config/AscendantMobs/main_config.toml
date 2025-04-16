@@ -1,7 +1,7 @@
 
 ["Attributes Scale Settings"]
 	#Configures attribute scaling with mob levels: [attribute] defines the stat, [value] is per-level increment, [max] is the cap, [mob] (optional) targets specific mobs or all
-	attributes_list = ["[attribute]minecraft:generic.max_health[attributeEnd][value]4[valueEnd][max]800[maxEnd]", "[attribute]minecraft:generic.movement_speed[attributeEnd][value]0.0025[valueEnd][max]0.33[maxEnd]", "[attribute]minecraft:generic.armor[attributeEnd][value]0.2[valueEnd][max]30[maxEnd]", "[attribute]minecraft:generic.attack_damage[attributeEnd][value]1[valueEnd][max]400[maxEnd]"]
+	attributes_list = ["[attribute]minecraft:generic.max_health[attributeEnd][value]4[valueEnd][max]1500[maxEnd]", "[attribute]minecraft:generic.movement_speed[attributeEnd][value]0.0025[valueEnd][max]0.53[maxEnd]", "[attribute]minecraft:generic.armor[attributeEnd][value]0.2[valueEnd][max]200[maxEnd]", "[attribute]minecraft:generic.attack_damage[attributeEnd][value]1[valueEnd][max]1024[maxEnd]", "[attribute]attributeslib:arrow_damage[attributeEnd][value]1[valueEnd][max]40[maxEnd]"]
 	#extra xp per level
 	xp_modfier = 5.0
 

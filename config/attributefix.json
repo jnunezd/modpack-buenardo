@@ -440,6 +440,17 @@
         "value": 100
       }
     },
+    "traveloptics:aqua_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "irons_spellbooks:ender_spell_power": {
       "enabled": false,
       "min": {
@@ -496,6 +507,17 @@
       }
     },
     "irons_spellbooks:evocation_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "traveloptics:aqua_magic_resist": {
       "enabled": false,
       "min": {
         "default": -100,
